@@ -1,0 +1,31 @@
+{
+  "version": "0.2.4",
+  "notes": "StudioRP — Versão 0.2.4.",
+  "pub_date": "2026-10-11T05:30:39.249Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNZSUNLSGpBckE1SFcyd1JNa094dEJKcUU1blErNkd6NDRhQ2k5a0pPRE9WMTF0bkhCZUlCaHBvcU5WbGJBYmx0U3FVbzZ3UHdhbmZmdXZ3cEJ3a2hRMWNQVUE2UHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk1MTk3CWZpbGU6U3R1ZGlvUlAuYXBwLnRhci5negl2ZXJzaW9uOjAuMi40Ck5jbkNaN2pocEdTbmU0K3c0QlRaQWR3ZGF3Uis4bHFkbHIwZ2xueEQyUFBnOTZLVHpKM2hudHhpV2QyOWxJV1lNUVZmMjZYb25UZDFGWE9KQWt5MkJRPT0K",
+      "url": "https://github.com/studiorp-app/downloads/releases/download/v0.2.4/StudioRP_0.2.4_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNZSUNLSGpBckE1SFcyd1JNa094dEJKcUU1blErNkd6NDRhQ2k5a0pPRE9WMTF0bkhCZUlCaHBvcU5WbGJBYmx0U3FVbzZ3UHdhbmZmdXZ3cEJ3a2hRMWNQVUE2UHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk1MTk3CWZpbGU6U3R1ZGlvUlAuYXBwLnRhci5negl2ZXJzaW9uOjAuMi40Ck5jbkNaN2pocEdTbmU0K3c0QlRaQWR3ZGF3Uis4bHFkbHIwZ2xueEQyUFBnOTZLVHpKM2hudHhpV2QyOWxJV1lNUVZmMjZYb25UZDFGWE9KQWt5MkJRPT0K",
+      "url": "https://github.com/studiorp-app/downloads/releases/download/v0.2.4/StudioRP_0.2.4_universal.app.tar.gz"
+    },
+    "darwin-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNZSUNLSGpBckE1SFcyd1JNa094dEJKcUU1blErNkd6NDRhQ2k5a0pPRE9WMTF0bkhCZUlCaHBvcU5WbGJBYmx0U3FVbzZ3UHdhbmZmdXZ3cEJ3a2hRMWNQVUE2UHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk1MTk3CWZpbGU6U3R1ZGlvUlAuYXBwLnRhci5negl2ZXJzaW9uOjAuMi40Ck5jbkNaN2pocEdTbmU0K3c0QlRaQWR3ZGF3Uis4bHFkbHIwZ2xueEQyUFBnOTZLVHpKM2hudHhpV2QyOWxJV1lNUVZmMjZYb25UZDFGWE9KQWt5MkJRPT0K",
+      "url": "https://github.com/studiorp-app/downloads/releases/download/v0.2.4/StudioRP_0.2.4_universal.app.tar.gz"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNZSUNLSGpBckNOQzJPUVdhYXdiTGNOZWdFR3pwc2NCRVJEY213emJYby8yQml3blBkZ01PYURzcHRtY251R0J2enA2N3Q1SnVxVDhwakpQRHlTQTFtb0tVcWxQNmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk2MzU0CWZpbGU6U3R1ZGlvUlBfMC4yLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi40CllUanRxWnkxRFFVQUQ1YldxWWs0dUxsZW1IeHRBbGhrODVtTU9tdXpkZlRkNjlsRTNRUU5BQVZ1QW81YXBWNFFlcm50RHVVeWpqV012UElkRjF1YkNnPT0K",
+      "url": "https://github.com/studiorp-app/downloads/releases/download/v0.2.4/StudioRP_0.2.4_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNZSUNLSGpBckNOQzJPUVdhYXdiTGNOZWdFR3pwc2NCRVJEY213emJYby8yQml3blBkZ01PYURzcHRtY251R0J2enA2N3Q1SnVxVDhwakpQRHlTQTFtb0tVcWxQNmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk2MzU0CWZpbGU6U3R1ZGlvUlBfMC4yLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi40CllUanRxWnkxRFFVQUQ1YldxWWs0dUxsZW1IeHRBbGhrODVtTU9tdXpkZlRkNjlsRTNRUU5BQVZ1QW81YXBWNFFlcm50RHVVeWpqV012UElkRjF1YkNnPT0K",
+      "url": "https://github.com/studiorp-app/downloads/releases/download/v0.2.4/StudioRP_0.2.4_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNZSUNLSGpBckNjWUJvWm1DTnM2c0VNR1VRR2F5VkZ6TnJZa3ZtVTZKQlZRZjhPL0NieThSODg4bkh1KzdZUHRINUxUMUlYS1Q1eDJyczZoY0Y0Sk15RE5RcFlibXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk2MzU0CWZpbGU6U3R1ZGlvUlBfMC4yLjRfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMi40CkNLWVhUdnNJTW1rMzIvTUZIRi95bDFEUTA4bU01MTRWcVFCVGZDYktvZkRYakVZTHBkYitydUVHazVVdk1XOGVaMHd1UEJEVHBxZjZTNU9GeDJmN0FBPT0K",
+      "url": "https://github.com/studiorp-app/downloads/releases/download/v0.2.4/StudioRP_0.2.4_x64_en-US.msi"
+    }
+  }
+}
